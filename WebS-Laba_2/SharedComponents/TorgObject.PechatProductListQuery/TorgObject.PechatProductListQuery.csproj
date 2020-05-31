@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>TorgObject</RootNamespace>
+    <AssemblyName>TorgObject.PechatProductListQuery</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TorgObject.ApplicationServices.General\TorgObject.ApplicationServices.General.csproj" />
+    <ProjectReference Include="..\TorgObject.BusinessLogic\TorgObject.BusinessLogic.csproj" />
+  </ItemGroup>
+
+</Project>

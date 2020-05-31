@@ -1,0 +1,8 @@
+C:\Users\zhori\Documents\ООП\WebS-Laba_2\SharedComponents\TorgObject.BusinessLogic\obj\Debug\netstandard2.0\TorgObject.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\zhori\Documents\ООП\WebS-Laba_2\SharedComponents\TorgObject.BusinessLogic\obj\Debug\netstandard2.0\TorgObject.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\zhori\Documents\ООП\WebS-Laba_2\SharedComponents\TorgObject.BusinessLogic\obj\Debug\netstandard2.0\TorgObject.BusinessLogic.AssemblyInfo.cs
+C:\Users\zhori\Documents\ООП\WebS-Laba_2\SharedComponents\TorgObject.BusinessLogic\bin\Debug\netstandard2.0\TorgObject.BusinessLogic.deps.json
+C:\Users\zhori\Documents\ООП\WebS-Laba_2\SharedComponents\TorgObject.BusinessLogic\bin\Debug\netstandard2.0\TorgObject.BusinessLogic.dll
+C:\Users\zhori\Documents\ООП\WebS-Laba_2\SharedComponents\TorgObject.BusinessLogic\bin\Debug\netstandard2.0\TorgObject.BusinessLogic.pdb
+C:\Users\zhori\Documents\ООП\WebS-Laba_2\SharedComponents\TorgObject.BusinessLogic\obj\Debug\netstandard2.0\TorgObject.BusinessLogic.dll
+C:\Users\zhori\Documents\ООП\WebS-Laba_2\SharedComponents\TorgObject.BusinessLogic\obj\Debug\netstandard2.0\TorgObject.BusinessLogic.pdb
